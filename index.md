@@ -36,8 +36,9 @@ My other interests and hobbies include:
 
 ## Languages
 
-I thoroughly enjoy learning new languages! Languages I am currently learning are
-marked with an asterisk in the list below.
+I thoroughly enjoy learning new languages! Below is a list of languages I speak
+or am learning, sorted by level. Languages I am currently learning are marked
+with an asterisk in the list below.
 
 Fluent:
 
