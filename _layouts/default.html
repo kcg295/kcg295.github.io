@@ -39,7 +39,19 @@
         {% endif %}
 
         {% if site.publications %}
-        <p><a href="{{ site.publications | relative_url}}"> Publications </a></p>
+        <p><a href="{{ site.publications | relative_url }}"> Publications </a></p>
+        {% endif %}
+
+        {% if site.projects %}
+        <p><a href="{{ site.projects | relative_url }}"> Current Projects </a></p>
+        {% endif %}
+
+        {% if site.teaching %}
+        <p><a href="{{ site.teaching | relative_url }}"> Teaching </a></p>
+        {% endif %}
+
+        {% if site.assignments %}
+        <p><a href="{{ site.publications | relative_url}}"> Assignments </a></p>
         {% endif %}
 
         {% if site.email %}
@@ -71,3 +83,4 @@
     {% endif %}
   </body>
 </html>
+
