@@ -1,1 +1,13 @@
 theme: jekyll-theme-minimal
+title: Kevin Gallagher's Website
+logo: /assets/img/face.png
+author:
+    name: Kevin Gallagher
+    email: kevin.gallagher@nyu.edu
+
+description: 
+    This site serves as the personal page of Kevin Gallagher, a Postdoctoral
+    Associate at NYU.
+
+publications: /publications
+email: kevin.gallagher [at] nyu.edu
