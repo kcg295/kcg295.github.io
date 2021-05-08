@@ -1,3 +1,7 @@
+---
+title: Kevin's Page
+---
+
 ## Welcome to my page
 
 My name is Kevin Gallagher and I am a Postdoctoral Associate at 
