@@ -7,8 +7,8 @@ title: Kevin's Page
 My name is Kevin Gallagher and I am a Postdoctoral Associate at 
 [New York University Tandon School of Engineering](https://engineering.nyu.edu),
 a founder of [PrivacyLX](https://privacylx.org), a Tor Core Contributor, and an
-activist. I teach the Information Security and Privacy course and Application
-Security course for the
+activist. I teach the Information Security and Privacy course and the 
+Application Security course for the
 [NYU Cyber Fellows](https://engineering.nyu.edu/academics/programs/cybersecurity-ms-online/nyu-cyber-fellows).
 
 I am extremely interested in the intersection of technology and people. I
@@ -32,6 +32,7 @@ My research interests include:
 
 My other interests and hobbies include:
 
+* Singing
 * Learning languages
 * Reading books on radical education
 * Political activism and organizing
