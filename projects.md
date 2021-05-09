@@ -42,7 +42,7 @@ a better experience on their site for Tor Browser users?
 Writing a paper detailing the Tor Browser Friendliness Scanner, a program which
 scans popular web pages on the Internet to provide details about what developers
 of the sites can change to make the site work better on the Tor Browser. This
-paper will be submitted to %%%%CONFERENCE HERE%%%%.
+paper will be submitted to the Privacy Enhancing Technology Symposium.
 
 ##### Next Steps
 
