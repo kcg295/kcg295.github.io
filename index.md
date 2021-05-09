@@ -30,12 +30,12 @@ My research interests include:
 
 ## Interests
 
-My other interests and hobbies include:
+My personal interests and hobbies include:
 
+* Political activism and organizing
+* Reading books on radical education
 * Singing
 * Learning languages
-* Reading books on radical education
-* Political activism and organizing
 * Overwatch (support role)
 * Table Top Role Playing Games (TTRPGs)
 
