@@ -2,6 +2,8 @@
 
 This page serves as a repository of my current projects. 
 
+---
+
 ### Envisioning and Implementing Horizontal Security
 
 Cybersecurity has its origin in military, which typically exhibits a very
@@ -28,6 +30,8 @@ technologies to facilitate horizontality, and implementing them.
 ##### Previous Steps
 
 None.
+
+---
 
 ### Measuring Tor's User Experience
 
@@ -58,6 +62,8 @@ as their default Browser.
 3. Created a scanner to scan the Internet and provide useful feedback to web
 developers on how to improve the Tor Browser Friendliness of their site.
 
+---
+
 ### Studying Data Privacy During COVID
 
 COVID has caused many disruptions in our daily lives, and contact tracing has
@@ -85,6 +91,8 @@ Beginning recruitment for our interview based study.
 practices because of COVID.
 2. Applied for IRB approval.
 3. Performed pilot testing.
+
+---
 
 ### Measuring the User Experience of Generating Deepfakes
 
