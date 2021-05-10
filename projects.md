@@ -78,7 +78,7 @@ with teleworking due to COVID? How have they affected user and worker privacy?
 
 Beginning recruitment for our interview based study.
 
-#### Next Steps
+##### Next Steps
 
 1. Perform interviews and analyze data
 2. Pull themes from qualitative data using coding.
