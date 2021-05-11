@@ -28,4 +28,16 @@ New York University Tandon School of Engineering
 <!--  ### Arxiv -->
 
 
-<!-- ### Other -->
+### Other
+
+This area contains other publications or speeches that I have written and
+published or otherwise delivered.
+
+##### Speeches
+
+[Declaração para o Bloco de Esquerda de Almada](/assets/speeches/MessageForBE-SHORT.pdf)\
+Kevin Gallagher\
+Reunião Aberta da Coordenadora Concelhia de Almada, 11 de Maio 2021,\
+Reunião de Zoom. Declaração.\
+Full version [here](/assets/speeches/MessageForBE-FULL.pdf).\
+Full English version [here](/assets/speeches/MessageForBE-EN.pdf).
