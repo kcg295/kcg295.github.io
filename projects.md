@@ -15,7 +15,7 @@ horizontal security policy creation, implementation, and enforcement?
 ##### Current Status
 
 Writing a position paper defining horizontal security and discussing why it is
-needed. This paper will be submitted to [IWPE](https://iwpe.info/).
+needed. This paper will be submitted to [NSPW](https://www.nspw.org/2021/).
 
 ##### Next Steps
 
@@ -105,7 +105,7 @@ media they create?
 
 ##### Current Status
 
-Waiting on IRB approval.
+Beginning recruitment for our UX study.
 
 ##### Next Steps
 
