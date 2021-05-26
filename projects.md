@@ -17,7 +17,7 @@ horizontal security policy creation, implementation, and enforcement?
 Writing a position paper defining horizontal security and discussing why it is
 needed. This paper will be submitted to [NSPW](https://www.nspw.org/2021/). To
 see a draft of this paper, see the git repository 
-[here](https://github.com/kcg295/HorizontalSecurityPaper).
+[here](https://github.com/kcg295/HorizontalSecurityPaper/tree/colbac).
 
 ##### Next Steps
 
