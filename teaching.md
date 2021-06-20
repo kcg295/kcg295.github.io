@@ -1,8 +1,8 @@
 ## Teaching
 
 Teaching is one of my passions. During my time at New York University Tandon
-School of Engineering I have taught 7 sections of classes, amounting to roughly
-800 students. 
+School of Engineering I have taught 7 sections of classes, amounting to over
+500 students. 
 
 #### Approach
 
