@@ -2,7 +2,7 @@
 
 This page serves as a repository for my publications.
 
-### Peer Reviewed - In Submission
+### Peer Reviewed - Accepted
 [COLBAC: Shifting Cybersecurity From Hierarchical to Horizontal Designs](https://github.com/kcg295/COLBACPaper/)\
 Kevin Gallagher, Santiago Torres-Arias, Nasir Memon, Jessica Feldman\
 Accepted in the New Security Paradigms Workshop (NSPW 2021)
