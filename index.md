@@ -56,4 +56,4 @@ Intermediate:
 Introductory:
 
 * Irish
-* Mandarin\*
+* Mandarin
