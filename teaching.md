@@ -1,8 +1,8 @@
 ## Teaching
 
 Teaching is one of my passions. During my time at New York University Tandon
-School of Engineering I have taught 7 sections of classes, amounting to over
-500 students. 
+School of Engineering I taught 7 sections of classes, amounting to over 500
+students. 
 
 #### Approach
 
@@ -33,7 +33,7 @@ and defenses hands-on. To see the assignments I have developed, please view the
 
 #### Classes
 
-During my time at New York University Tandon School of Engineering I have taught
+During my time at New York University Tandon School of Engineering I taught
 two courses: Information Security and Privacy and Application Security.
 
 ##### Information Security and Privacy
