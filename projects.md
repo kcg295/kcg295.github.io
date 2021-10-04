@@ -108,13 +108,11 @@ media they create?
 
 ##### Current Status
 
-Beginning recruitment for our UX study.
+Writing up our results.
 
 ##### Next Steps
 
-1. Recruit participants for our study.
-2. Have participants generate Deepfake media and report issues they come across.
-3. Write paper and submit.
+1. Submit to a conference.
 
 ##### Previous Steps
 
@@ -123,4 +121,6 @@ when generating Deepfake media.
 2. Piloted study protocol with masters students, Ph.D. students, and research
 staff to identify and repair flaws.
 3. Submitted the study propsal to the IRB for approval.
+4. Performed our study with participants from many different backgrounds.
+5. Analyzed results.
 
