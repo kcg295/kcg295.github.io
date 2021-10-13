@@ -7,6 +7,13 @@ This page serves as a repository for my publications.
 Kevin Gallagher, Santiago Torres-Arias, Nasir Memon, Jessica Feldman\
 Accepted in the New Security Paradigms Workshop (NSPW 2021)
 
+### Peer Reviewed - In Submission
+
+A Deep Dive Into the Deepfake Creation Community\
+Brian Timmerman, Pulak Mehta, Progga Debb, Kevin Gallagher, Brendan Dolan-Gavitt, Damon McCoy, Siddharth Garg, Rachel Greenstadt
+In Submission to Usenix Security 2022.
+
+
 ### Peer Reviewed - Published
 
 [Peeling the Onion's User Experience Layer: Examining Naturalistic Use of the Tor Browser](https://dl.acm.org/doi/abs/10.1145/3243734.3243803)\
