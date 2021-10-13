@@ -10,7 +10,7 @@ Accepted in the New Security Paradigms Workshop (NSPW 2021)
 ### Peer Reviewed - In Submission
 
 A Deep Dive Into the Deepfake Creation Community\
-Brian Timmerman, Pulak Mehta, Progga Debb, Kevin Gallagher, Brendan Dolan-Gavitt, Damon McCoy, Siddharth Garg, Rachel Greenstadt
+Brian Timmerman, Pulak Mehta, Progga Debb, Kevin Gallagher, Brendan Dolan-Gavitt, Damon McCoy, Siddharth Garg, Rachel Greenstadt\
 In Submission to Usenix Security 2022.
 
 
