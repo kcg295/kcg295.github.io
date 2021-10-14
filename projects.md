@@ -14,16 +14,19 @@ horizontal security policy creation, implementation, and enforcement?
 
 ##### Current Status
 
-Awaiting notification of acceptance or rejection.
+*COLBAC: Shifting Cybersecurity From Hierarchical to Horizontal Designs* was
+accepted to the New Security Paradigms Workshop.
 
 ##### Next Steps
 
-1. Measure the horizontality of security practices of different organization
-types.
-2. Develop a technological solution to allow activists organizations, NGOs,
+1. Study the security practices of horizontal organizations.
+2. Create a secure distributed system that allows small food banks and food
+cooperatives to dynamically create contracts with vendors to create competition
+to big agriculture.
+3. Develop a technological solution to allow activists organizations, NGOs,
 and other more horizontal groups to avoid "password wars," or, the occurance of
 a malicious insider denying the group access to their third party accounts.
-3. Identify necessary changes in traditional cybersecurity concepts and
+4. Identify necessary changes in traditional cybersecurity concepts and
 technologies to facilitate horizontality, and implementing them.
 
 ##### Previous Steps
@@ -105,13 +108,11 @@ media they create?
 
 ##### Current Status
 
-Beginning recruitment for our UX study.
+Writing up our results.
 
 ##### Next Steps
 
-1. Recruit participants for our study.
-2. Have participants generate Deepfake media and report issues they come across.
-3. Write paper and submit.
+1. Submit to a conference.
 
 ##### Previous Steps
 
@@ -120,4 +121,6 @@ when generating Deepfake media.
 2. Piloted study protocol with masters students, Ph.D. students, and research
 staff to identify and repair flaws.
 3. Submitted the study propsal to the IRB for approval.
+4. Performed our study with participants from many different backgrounds.
+5. Analyzed results.
 
