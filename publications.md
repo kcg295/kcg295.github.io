@@ -43,6 +43,13 @@ New York University Tandon School of Engineering
 This area contains other publications or speeches that I have written and
 published or otherwise delivered.
 
+##### Blog Posts
+[Working Towards Democratic Computing Systems](https://dcentral-lab.org/working-towards-democratic-computing-systems/)\
+Kevin Gallagher\
+DCentral\
+Instituto Superior Técnico\
+Universidade de Lisboa
+
 ##### Speeches
 
 [Declaração para o Bloco de Esquerda de Almada](/assets/speeches/MessageForBE-SHORT.pdf)\
