@@ -2,19 +2,24 @@
 
 This page serves as a repository for my publications.
 
-### Peer Reviewed - Accepted
-[COLBAC: Shifting Cybersecurity From Hierarchical to Horizontal Designs](https://github.com/kcg295/COLBACPaper/)\
-Kevin Gallagher, Santiago Torres-Arias, Nasir Memon, Jessica Feldman\
-Accepted in the New Security Paradigms Workshop (NSPW 2021)
+<!--### Peer Reviewed - Accepted -->
 
 ### Peer Reviewed - In Submission
 
-A Deep Dive Into the Deepfake Creation Community\
+<!-- A Deep Dive Into the Deepfake Creation Community\
 Brian Timmerman, Pulak Mehta, Progga Debb, Kevin Gallagher, Brendan Dolan-Gavitt, Damon McCoy, Siddharth Garg, Rachel Greenstadt\
-In Submission to Usenix Security 2022.
+In Submission to Usenix Security 2022. -->
+
+"It Feels Like Whack-a-mole": User Experiences of Data Removal from People Search Websites\
+Kejsi Take, Kevin Gallagher, Andrea Forte, Damon McCoy, Rachel Greenstadt\
+In Submission to Privacy Enhancing Technology Symposium 2022.
 
 
 ### Peer Reviewed - Published
+
+[COLBAC: Shifting Cybersecurity From Hierarchical to Horizontal Designs](https://dl.acm.org/doi/10.1145/3498891.3498903)\
+Kevin Gallagher, Santiago Torres-Arias, Nasir Memon, Jessica Feldman\
+NSPW '21: New Security Paradigms Workshop
 
 [Peeling the Onion's User Experience Layer: Examining Naturalistic Use of the Tor Browser](https://dl.acm.org/doi/abs/10.1145/3243734.3243803)\
 Kevin Gallagher, Sameer Patil, Brendan Dolan-Gavitt, Damon McCoy, Nasir Memon\
