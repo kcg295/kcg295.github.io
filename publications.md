@@ -2,17 +2,17 @@
 
 This page serves as a repository for my publications.
 
-<!--### Peer Reviewed - Accepted -->
+### Peer Reviewed - Accepted
+
+"It Feels Like Whack-a-mole": User Experiences of Data Removal from People Search Websites\
+Kejsi Take, Kevin Gallagher, Andrea Forte, Damon McCoy, Rachel Greenstadt\
+Accepted to Privacy Enhancing Technology Symposium 2022.
 
 ### Peer Reviewed - In Submission
 
 A Deep Dive Into the Deepfake Creation Community\
 Brian Timmerman, Pulak Mehta, Progga Debb, Kevin Gallagher, Brendan Dolan-Gavitt, Damon McCoy, Siddharth Garg, Rachel Greenstadt\
 In Submission to ICWSM 22.
-
-"It Feels Like Whack-a-mole": User Experiences of Data Removal from People Search Websites\
-Kejsi Take, Kevin Gallagher, Andrea Forte, Damon McCoy, Rachel Greenstadt\
-In Submission to Privacy Enhancing Technology Symposium 2022.
 
 
 ### Peer Reviewed - Published
