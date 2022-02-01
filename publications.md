@@ -14,7 +14,6 @@ A Deep Dive Into the Deepfake Creation Community\
 Brian Timmerman, Pulak Mehta, Progga Debb, Kevin Gallagher, Brendan Dolan-Gavitt, Damon McCoy, Siddharth Garg, Rachel Greenstadt\
 In Submission to ICWSM 22.
 
-
 ### Peer Reviewed - Published
 
 [COLBAC: Shifting Cybersecurity From Hierarchical to Horizontal Designs](https://dl.acm.org/doi/10.1145/3498891.3498903)\
