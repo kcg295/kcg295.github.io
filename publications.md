@@ -18,6 +18,10 @@ How Easily Can Novice Users Create Deepfakes?\
 Pulak Mehta, Kevin Gallagher, Gauri Jagatap, Brian Timmerman, Progga Deb, Siddharth Garg, Rachel Greenstadt, Damon McCoy, Brendan Dolan-Gavitt\
 In Submission to SOUPS 2022.
 
+Scanning the Web for Tor Browser Friendliness\
+Kevin Gallagher, Ryan Quirk, Nasir Memon, Brendan Dolan-Gavitt\
+In Submission to Privacy Enhancing Technology Symposium 2022.
+
 ### Peer Reviewed - Published
 
 [COLBAC: Shifting Cybersecurity From Hierarchical to Horizontal Designs](https://dl.acm.org/doi/10.1145/3498891.3498903)\
