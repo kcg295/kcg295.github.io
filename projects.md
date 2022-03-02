@@ -93,8 +93,8 @@ Beginning recruitment for our interview based study.
 practices because of COVID.
 2. Applied for IRB approval.
 3. Performed pilot testing.
--->
 ---
+-->
 
 ### Measuring the User Experience of Generating Deepfakes
 
