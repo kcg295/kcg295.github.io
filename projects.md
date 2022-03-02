@@ -15,24 +15,23 @@ horizontal security policy creation, implementation, and enforcement?
 ##### Current Status
 
 *COLBAC: Shifting Cybersecurity From Hierarchical to Horizontal Designs* was
-accepted to the New Security Paradigms Workshop.
+published in NSPW 2021.
 
 ##### Next Steps
 
 1. Study the security practices of horizontal organizations.
-2. Create a secure distributed system that allows small food banks and food
-cooperatives to dynamically create contracts with vendors to create competition
-to big agriculture.
-3. Develop a technological solution to allow activists organizations, NGOs,
+2. Develop a technological solution to allow activists organizations, NGOs,
 and other more horizontal groups to avoid "password wars," or, the occurance of
 a malicious insider denying the group access to their third party accounts.
-4. Identify necessary changes in traditional cybersecurity concepts and
+3. Identify necessary changes in traditional cybersecurity concepts and
 technologies to facilitate horizontality, and implementing them.
+4. Work towards applying a COLBAC-like solution to the Portuguese Parliament's
+insider attack threat model.
 
 ##### Previous Steps
 
-1. Submitted a paper presenting COLBAC, a collective based access control
-system, to [NSPW](https://www.nspw.org/2021/)
+1. Presented COLBAC, a collective based access control system, to
+[NSPW](https://www.nspw.org/2021/)
 
 ---
 
@@ -66,7 +65,7 @@ as their default Browser.
 developers on how to improve the Tor Browser Friendliness of their site.
 
 ---
-
+<!--
 ### Studying Data Privacy During COVID
 
 COVID has caused many disruptions in our daily lives, and contact tracing has
@@ -94,7 +93,7 @@ Beginning recruitment for our interview based study.
 practices because of COVID.
 2. Applied for IRB approval.
 3. Performed pilot testing.
-
+-->
 ---
 
 ### Measuring the User Experience of Generating Deepfakes
@@ -108,11 +107,11 @@ media they create?
 
 ##### Current Status
 
-Writing up our results.
+*How Easily Can Novice Users Create Deepfakes?* was submitted to SOUPS 2022.
 
 ##### Next Steps
 
-1. Submit to a conference.
+1. Figure out next steps.
 
 ##### Previous Steps
 
@@ -123,4 +122,5 @@ staff to identify and repair flaws.
 3. Submitted the study propsal to the IRB for approval.
 4. Performed our study with participants from many different backgrounds.
 5. Analyzed results.
+6. Submitted to SOUPS 2022.
 
