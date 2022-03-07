@@ -45,10 +45,7 @@ a better experience on their site for Tor Browser users?
 
 ##### Current Status
 
-Writing a paper detailing the Tor Browser Friendliness Scanner, a program which
-scans popular web pages on the Internet to provide details about what developers
-of the sites can change to make the site work better on the Tor Browser. This
-paper will be submitted to the Privacy Enhancing Technology Symposium.
+Submitted *Scanning the Web for Tor Friendliness* to PETS 2022.
 
 ##### Next Steps
 
