@@ -65,6 +65,33 @@ as their default Browser.
 developers on how to improve the Tor Browser Friendliness of their site.
 
 ---
+
+### Determining the Practices of People Search Websites
+
+People Search Websites aggregate and publicize users' Personal Identifiable
+Information (PII), previously sourced from data brokers and make it available to
+customers who wish to access that information. In this project we study how
+people can interact with People Search Websites, how effective data removal from
+these People Search Websites are, and dark patterns in the operation of these
+sites.
+
+#### Current Status
+
+*``It Feels Like Whack-a-mole'': User Experiences of Data Removal from People Search Websites* was accepted to PETS 2022.
+
+#### Next Steps
+
+1. Study the effectiveness of different methods of data removal from People
+Search Websites through an empircal, controled study.
+
+#### Previous Steps
+
+1. Studied people's perceptions of people search websites, their experiences
+trying to remove data from them, and their motivations for doing so.
+2. Worked with Kejsi T. and others to publish *``It Feels Like Whack-a-mole''*
+in PETS 2022.
+
+---
 <!--
 ### Studying Data Privacy During COVID
 
