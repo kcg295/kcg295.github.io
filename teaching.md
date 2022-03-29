@@ -33,8 +33,33 @@ and defenses hands-on. To see the assignments I have developed, please view the
 
 #### Classes
 
-During my time at New York University Tandon School of Engineering I taught
-two courses: Information Security and Privacy and Application Security.
+At Instituto Superior Técnico I have taught two courses: the practical labs of
+the Highly Dependable Systems course, and the entirety of the Advanced topics in
+Parallel and Distributed Computing course. During my time at New York University
+Tandon School of Engineering I taught two courses: Information Security and
+Privacy and Application Security.
+
+##### Highly Dependable Systems
+
+The Highly Dependable Systems course addresses the security and fault-tolerant
+aspects of system design, including recent advancements in the areas of
+blockchain and trustworthy computing. The lab component of this is comprised of
+practical, hands-on exersizes and projects that help students take the lessons
+they learned of applied cryptography, consensus, and more, and apply them to
+practice real world skills.
+
+##### Advanced Topics in Parallel and Distributed Computing: Decentralization
+
+In the Advanced Topics in Parallel and Distributed Computing class I focused on
+the security and privacy approaches and challenges of decentralization. In this
+PhD level course I took a flipped classroom approach and tasked students with
+presenting and reviewing cutting-edge research in the areas of decentralized
+systems and security and privacy. Students were graded based on their
+presentations, their reviews of the papers, and their participation in class
+discussions. This approach allowed the PhD students to bootstrap knowledge in
+the area of Blockchain rapidly, to be ready to perform research in this area,
+and to learn important skills for an academic: paper reviewing, presentation,
+and choosing research problems.
 
 ##### Information Security and Privacy
 
