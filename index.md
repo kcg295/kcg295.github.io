@@ -7,8 +7,10 @@ title: Kevin's Page
 My name is Kevin Gallagher and I am an Invited Assistant Professor in
 [Instituto Superior Técnico, Universidade de Lisboa](https://tecnico.ulisboa.pt),
 a researcher at [INESC-ID](https://www.inesc-id.pt/), a member of
-[DCentral](https://bigerachair.tecnico.ulisboa.pt/), a founder of
-[PrivacyLX](https://privacylx.org), a Tor Core Contributor, and an activist. 
+[DCentral](https://dcentral-lab.org/), a founder of
+[PrivacyLX](https://privacylx.org), a
+[Tor Core Contributor](https://www.torproject.org/about/people/#core), and an
+activist. 
 <!--I teach the Information Security and Privacy course and the 
 Application Security course for the
 [NYU Cyber Fellows](https://engineering.nyu.edu/academics/programs/cybersecurity-ms-online/nyu-cyber-fellows). -->
