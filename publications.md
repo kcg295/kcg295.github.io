@@ -8,19 +8,20 @@ This page serves as a repository for my publications.
 Kejsi Take, Kevin Gallagher, Andrea Forte, Damon McCoy, Rachel Greenstadt\
 Accepted to Privacy Enhancing Technology Symposium 2022.
 
-<!--### Peer Reviewed - In Submission
+Scanning the Web for Tor Browser Friendliness\
+Kevin Gallagher, Ryan Quirk, Nasir Memon, Brendan Dolan-Gavitt\
+Accepted with Major Revisions to Privacy Enhancing Technology Symposium 2022.
 
-A Deep Dive Into the Deepfake Creation Community\
+### Peer Reviewed - In Submission
+
+<!--A Deep Dive Into the Deepfake Creation Community\
 Brian Timmerman, Pulak Mehta, Progga Debb, Kevin Gallagher, Brendan Dolan-Gavitt, Damon McCoy, Siddharth Garg, Rachel Greenstadt\
-In Submission to ICWSM 22.
+In Submission to ICWSM 22.-->
 
 How Easily Can Novice Users Create Deepfakes?\
 Pulak Mehta, Kevin Gallagher, Gauri Jagatap, Brian Timmerman, Progga Deb, Siddharth Garg, Rachel Greenstadt, Damon McCoy, Brendan Dolan-Gavitt\
-In Submission to SOUPS 2022.
+In Submission to CCS 2023.
 
-Scanning the Web for Tor Browser Friendliness\
-Kevin Gallagher, Ryan Quirk, Nasir Memon, Brendan Dolan-Gavitt\
-In Submission to Privacy Enhancing Technology Symposium 2022.-->
 
 ### Peer Reviewed - Published
 
