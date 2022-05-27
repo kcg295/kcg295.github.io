@@ -14,12 +14,12 @@ Accepted with Major Revisions to Privacy Enhancing Technology Symposium 2022.
 
 ### Peer Reviewed - In Submission
 
-<!--A Deep Dive Into the Deepfake Creation Community\
+Measuring the Online Deepfake Creation Community: Quantitative and Qualitative Analysis of the MrDeepFakes Forum\
 Brian Timmerman, Pulak Mehta, Progga Debb, Kevin Gallagher, Brendan Dolan-Gavitt, Damon McCoy, Siddharth Garg, Rachel Greenstadt\
-In Submission to ICWSM 22.-->
+In Submission to ICWSM 22.
 
 How Easily Can Novice Users Create Deepfakes?\
-Pulak Mehta, Kevin Gallagher, Gauri Jagatap, Brian Timmerman, Progga Deb, Siddharth Garg, Rachel Greenstadt, Damon McCoy, Brendan Dolan-Gavitt\
+Pulak Mehta, Kevin Gallagher, Gauri Jagatap, Brian Timmerman, Progga Deb, Siddharth Garg, Rachel Greenstadt, Brendan Dolan-Gavitt\
 In Submission to CCS 2023.
 
 
