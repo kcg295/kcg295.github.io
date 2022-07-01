@@ -18,9 +18,9 @@ Measuring the Online Deepfake Creation Community: Quantitative and Qualitative A
 Brian Timmerman, Pulak Mehta, Progga Debb, Kevin Gallagher, Brendan Dolan-Gavitt, Damon McCoy, Siddharth Garg, Rachel Greenstadt\
 In Submission to ICWSM 22.
 
-How Easily Can Novice Users Create Deepfakes?\
+<!--How Easily Can Novice Users Create Deepfakes?\
 Pulak Mehta, Kevin Gallagher, Gauri Jagatap, Brian Timmerman, Progga Deb, Siddharth Garg, Rachel Greenstadt, Brendan Dolan-Gavitt\
-In Submission to CCS 2023.
+In Submission to CCS 2023.-->
 
 
 ### Peer Reviewed - Published
