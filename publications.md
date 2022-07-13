@@ -2,28 +2,28 @@
 
 This page serves as a repository for my publications.
 
-### Peer Reviewed - Accepted
-
-"It Feels Like Whack-a-mole": User Experiences of Data Removal from People Search Websites\
-Kejsi Take, Kevin Gallagher, Andrea Forte, Damon McCoy, Rachel Greenstadt\
-Accepted to Privacy Enhancing Technology Symposium 2022.
+### Peer Reviewed - Conditionally Accepted
 
 Scanning the Web for Tor Browser Friendliness\
 Kevin Gallagher, Ryan Quirk, Nasir Memon, Brendan Dolan-Gavitt\
 Accepted with Major Revisions to Privacy Enhancing Technology Symposium 2022.
 
-### Peer Reviewed - In Submission
+<!--### Peer Reviewed - In Submission
 
 Measuring the Online Deepfake Creation Community: Quantitative and Qualitative Analysis of the MrDeepFakes Forum\
 Brian Timmerman, Pulak Mehta, Progga Debb, Kevin Gallagher, Brendan Dolan-Gavitt, Damon McCoy, Siddharth Garg, Rachel Greenstadt\
 In Submission to ICWSM 22.
 
-<!--How Easily Can Novice Users Create Deepfakes?\
+How Easily Can Novice Users Create Deepfakes?\
 Pulak Mehta, Kevin Gallagher, Gauri Jagatap, Brian Timmerman, Progga Deb, Siddharth Garg, Rachel Greenstadt, Brendan Dolan-Gavitt\
 In Submission to CCS 2023.-->
 
 
 ### Peer Reviewed - Published
+
+["It Feels Like Whack-a-mole": User Experiences of Data Removal from People Search Websites](https://petsymposium.org/2022/files/papers/issue3/popets-2022-0067.pdf)\
+Kejsi Take, Kevin Gallagher, Andrea Forte, Damon McCoy, Rachel Greenstadt\
+Privacy Enhancing Technology Symposium 2022.
 
 [COLBAC: Shifting Cybersecurity From Hierarchical to Horizontal Designs](https://dl.acm.org/doi/10.1145/3498891.3498903)\
 Kevin Gallagher, Santiago Torres-Arias, Nasir Memon, Jessica Feldman\
