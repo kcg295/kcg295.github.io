@@ -2,22 +2,32 @@
 
 This page serves as a repository for my publications.
 
-### Peer Reviewed - Conditionally Accepted
+### Peer Reviewed - Soon to be Resubmitted
 
 Scanning the Web for Tor Browser Friendliness\
 Kevin Gallagher, Ryan Quirk, Nasir Memon, Brendan Dolan-Gavitt\
-Accepted with Major Revisions to Privacy Enhancing Technology Symposium 2022.
+Accepted with Major Revisions to Privacy Enhancing Technology Symposium 2022,
+Resubmission in 1 month.
 
-<!--### Peer Reviewed - In Submission
+### Peer Reviewed - In Submission
 
-Measuring the Online Deepfake Creation Community: Quantitative and Qualitative Analysis of the MrDeepFakes Forum\
+TorK: Hardening Tor against Traffic Correlation Attacks with  K-Anonymity\
+Vitor Nunes, José Brás, Diogo Barradas, Kevin Gallagher, Nuno Santos\
+In Submission to USENIX Security '23.
+
+Studying the Online Deepfake Creation Community\
 Brian Timmerman, Pulak Mehta, Progga Debb, Kevin Gallagher, Brendan Dolan-Gavitt, Damon McCoy, Siddharth Garg, Rachel Greenstadt\
-In Submission to ICWSM 22.
+In Submission to WWW '23.
 
-How Easily Can Novice Users Create Deepfakes?\
-Pulak Mehta, Kevin Gallagher, Gauri Jagatap, Brian Timmerman, Progga Deb, Siddharth Garg, Rachel Greenstadt, Brendan Dolan-Gavitt\
-In Submission to CCS 2023.-->
+Can Deepfakes be created on a whim?\
+Pulak Mehta, Kevin Gallagher, Gauri Jagatap, Brian Timmerman, Progga Deb,
+Siddharth Garg, Rachel Greenstadt, Brendan Dolan-Gavitt\
+In Submission to SaTML '23.
 
+An Adversarial Analysis of Affective Cue-Based Deepfake Detection\
+Brian Timmerman, Kevin Gallagher, Pulak Mehta, Damon McCoy, Siddharth Garg,
+Brendan Dolan-Gavitt, Rachel Greenstadt\
+In Submission to SaTML '23.
 
 ### Peer Reviewed - Published
 
@@ -48,8 +58,7 @@ Scientometrics 108, 183-200 (2016)
 Kevin Gallagher\
 New York University Tandon School of Engineering
 
-<!--  ### Arxiv -->
-
+<!--### Arxiv-->
 
 ### Other
 
