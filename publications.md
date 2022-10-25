@@ -19,7 +19,7 @@ Studying the Online Deepfake Creation Community\
 Brian Timmerman, Pulak Mehta, Progga Debb, Kevin Gallagher, Brendan Dolan-Gavitt, Damon McCoy, Siddharth Garg, Rachel Greenstadt\
 In Submission to WWW '23.
 
-Can Deepfakes be created on a whim?\
+<!--Can Deepfakes be created on a whim?\
 Pulak Mehta, Kevin Gallagher, Gauri Jagatap, Brian Timmerman, Progga Deb,
 Siddharth Garg, Rachel Greenstadt, Brendan Dolan-Gavitt\
 In Submission to SaTML '23.
@@ -27,7 +27,7 @@ In Submission to SaTML '23.
 An Adversarial Analysis of Affective Cue-Based Deepfake Detection\
 Brian Timmerman, Kevin Gallagher, Pulak Mehta, Damon McCoy, Siddharth Garg,
 Brendan Dolan-Gavitt, Rachel Greenstadt\
-In Submission to SaTML '23.
+In Submission to SaTML '23.-->
 
 ### Peer Reviewed - Published
 
