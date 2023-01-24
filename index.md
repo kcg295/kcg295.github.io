@@ -4,9 +4,7 @@ title: Kevin's Page
 
 ## Welcome to my page
 
-My name is Kevin Gallagher and I am an Invited Assistant Professor in
-[Instituto Superior Técnico, Universidade de Lisboa](https://tecnico.ulisboa.pt),
-a researcher at [INESC-ID](https://www.inesc-id.pt/), a founder of
+My name is Kevin Gallagher and I am an a founder of
 [PrivacyLX](https://privacylx.org), a
 [Tor Core Contributor](https://www.torproject.org/about/people/#core), and an
 activist. 
