@@ -4,7 +4,8 @@ title: Kevin's Page
 
 ## Welcome to my page
 
-My name is Kevin Gallagher and I am an a founder of
+My name is Kevin Gallagher and I am an Assistant Professor at 
+[Universidade Nova de Lisboa](https://fct.unl.pt), a founder of
 [PrivacyLX](https://privacylx.org), a
 [Tor Core Contributor](https://www.torproject.org/about/people/#core), and an
 activist. 
