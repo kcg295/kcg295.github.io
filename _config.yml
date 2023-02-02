@@ -3,14 +3,15 @@ title: Kevin Gallagher's Website
 logo: /assets/img/face.png
 author:
     name: Kevin Gallagher
-    email: kevin.gallagher@tecnico.ulisboa.pt
+    email: k.gallagher@fct.unl.pt
 
 description: 
-    This site serves as the personal page of Kevin Gallagher, an Invited
-    Assistant Professor at Instituto Superior Técnico, Universidade de Lisboa.
+    This site serves as the personal page of Kevin Gallagher, an 
+    Assistant Professor at Faculdade de Ciências e Tecnologia, Universidade 
+    Nova de Lisboa.
 
 publications: /publications
-email: kevin.gallagher [at] tecnico.ulisboa.pt
+email: k.gallagher [at] fct.unl.pt
 projects: /projects
 teaching: /teaching
 assignments: /assignments
