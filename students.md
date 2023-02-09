@@ -26,7 +26,7 @@ Expected Completion: Dec. 2023
 Expected Completion: Dec. 2023
 
 ##### Tiago Fournigault
-**Decentralizing Deliberation for DAOs**
+**Decentralizing Deliberation for DAOs**\
 Expected Completion: Dec. 2023
 
 ##### Guilherme Gaspar
