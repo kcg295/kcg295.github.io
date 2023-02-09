@@ -6,7 +6,7 @@ This page serves as a repository for my publications.
 
 Scanning the Web for Tor Browser Friendliness\
 Kevin Gallagher, Ryan Quirk, Nasir Memon, Brendan Dolan-Gavitt\
-Accepted with Major Revisions to Privacy Enhancing Technology Symposium 2023,
+Major Revisions Decision to Privacy Enhancing Technology Symposium 2023,
 Resubmission in the next cycle.
 
 ### Peer Reviewed - In Submission
