@@ -53,6 +53,10 @@
         {% if site.assignments %}
         <p><a href="{{ site.assignments | relative_url}}"> Assignments </a></p>
         {% endif %}
+        
+        {% if site.students %}
+        <p><a href="{{ site.students | relative_url}}"> Students </a></p>
+        {% endif %}
 
         {% if site.email %}
         <p>Email me at {{site.email}}!</p>
