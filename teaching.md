@@ -33,11 +33,22 @@ and defenses hands-on. To see the assignments I have developed, please view the
 
 #### Classes
 
-At Instituto Superior Técnico I have taught two courses: the practical labs of
-the Highly Dependable Systems course, and the entirety of the Advanced topics in
-Parallel and Distributed Computing course. During my time at New York University
+At Instituto Superior Técnico I taught three courses: the practical labs of
+the Highly Dependable Systems course, the entirety of the Advanced topics in
+Parallel and Distributed Computing course, and the entirety of the Fundamnentals
+of Privacy and Anonymity course. During my time at New York University
 Tandon School of Engineering I taught two courses: Information Security and
-Privacy and Application Security.
+Privacy and Application Security. Currently at Universidade NOVA de Lisboa I 
+teach the practical labs of the Computer Architecture course.
+
+##### Fundamentals of Privacy and Anonymity
+
+The Fundamentals of Privacy and Anonymity course teaches students the
+foundational works of the fields of privacy and anonymity that are necessary to
+jump into creating private and anonymous systems and protocols. In this PhD
+level course I took a flipped classroom approach and tasked students with
+presenting and reviewing seminal works in the areas of privacy and anonymity,
+including Privacy as Contextual Integrity, Differential Privacy, and Tor.
 
 ##### Highly Dependable Systems
 
