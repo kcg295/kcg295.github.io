@@ -6,18 +6,19 @@ This page serves as a repository for my publications.
 
 Scanning the Web for Tor Browser Friendliness\
 Kevin Gallagher, Ryan Quirk, Nasir Memon, Brendan Dolan-Gavitt\
-Accepted with Major Revisions to Privacy Enhancing Technology Symposium 2022,
-Resubmission in 1 month.
+Accepted with Major Revisions to Privacy Enhancing Technology Symposium 2023,
+Resubmission in the next cycle.
 
 ### Peer Reviewed - In Submission
 
-TorK: Hardening Tor against Traffic Correlation Attacks with  K-Anonymity\
+<!--TorK: Hardening Tor against Traffic Correlation Attacks with  K-Anonymity\
 Vitor Nunes, José Brás, Diogo Barradas, Kevin Gallagher, Nuno Santos\
-In Submission to USENIX Security '23.
+In Submission to USENIX Security '23.-->
 
 Studying the Online Deepfake Creation Community\
-Brian Timmerman, Pulak Mehta, Progga Debb, Kevin Gallagher, Brendan Dolan-Gavitt, Damon McCoy, Siddharth Garg, Rachel Greenstadt\
-In Submission to WWW '23.
+Brian Timmerman, Pulak Mehta, Progga Debb, Kevin Gallagher,
+Brendan Dolan-Gavitt, Damon McCoy, Siddharth Garg, Rachel Greenstadt\
+In Submission to CySoc 2023.
 
 <!--Can Deepfakes be created on a whim?\
 Pulak Mehta, Kevin Gallagher, Gauri Jagatap, Brian Timmerman, Progga Deb,
