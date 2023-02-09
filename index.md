@@ -51,7 +51,7 @@ Fluent:
 
 * English
 
-Intermediate:
+Advanced:
 
 * Portuguese\*
 
