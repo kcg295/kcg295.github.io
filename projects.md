@@ -45,7 +45,8 @@ a better experience on their site for Tor Browser users?
 
 ##### Current Status
 
-Submitted *Scanning the Web for Tor Friendliness* to PETS 2022.
+Submitted *Scanning the Web for Tor Friendliness* to PETS 2023. Resubmission in
+the next cycle.
 
 ##### Next Steps
 
@@ -74,7 +75,8 @@ sites.
 
 #### Current Status
 
-*``It Feels Like Whack-a-mole'': User Experiences of Data Removal from People Search Websites* was accepted to PETS 2022.
+*``It Feels Like Whack-a-mole'': User Experiences of Data Removal from People
+Search Websites* was published in PETS 2022.
 
 #### Next Steps
 
@@ -89,36 +91,6 @@ trying to remove data from them, and their motivations for doing so.
 in PETS 2022.
 
 ---
-<!--
-### Studying Data Privacy During COVID
-
-COVID has caused many disruptions in our daily lives, and contact tracing has
-introduced privacy issues for the benefit of public health. Beyond contact
-and location tracing, how has data privacy been affected by COVID? How have
-organizations handled access control changes to sensitive data given
-teleworking? Have business created new agreements with third parties that are
-now processing or storing user data? What new policies have been added to deal
-with teleworking due to COVID? How have they affected user and worker privacy?
-
-##### Current Status
-
-Beginning recruitment for our interview based study.
-
-##### Next Steps
-
-1. Perform interviews and analyze data
-2. Pull themes from qualitative data using coding.
-3. Create a survey from our themes to obtain generalizable results.
-4. Write paper and submit.
-
-##### Previous Steps
-
-1. Developed an interview protocol to study changes to orginizational privacy
-practices because of COVID.
-2. Applied for IRB approval.
-3. Performed pilot testing.
----
--->
 
 ### Measuring the User Experience of Generating Deepfakes
 
@@ -131,7 +103,8 @@ media they create?
 
 ##### Current Status
 
-*How Easily Can Novice Users Create Deepfakes?* was submitted to SOUPS 2022.
+*How Easily Can Novice Users Create Deepfakes?* will be submitted to a venue to
+be chosen soon.
 
 ##### Next Steps
 
@@ -146,5 +119,3 @@ staff to identify and repair flaws.
 3. Submitted the study propsal to the IRB for approval.
 4. Performed our study with participants from many different backgrounds.
 5. Analyzed results.
-6. Submitted to SOUPS 2022.
-
