@@ -20,6 +20,11 @@ Brian Timmerman, Pulak Mehta, Progga Debb, Kevin Gallagher,
 Brendan Dolan-Gavitt, Damon McCoy, Siddharth Garg, Rachel Greenstadt\
 In Submission to CySoc 2023.
 
+Blockchain Technology as a disruptive or incremental innovation: A systematic 
+literature review and an agenda for future research\
+Stefan Kwant, Bert Sadowski, Kevin Gallagher and Jason Whalley\
+In Submission to ITS 2023.
+
 <!--Can Deepfakes be created on a whim?\
 Pulak Mehta, Kevin Gallagher, Gauri Jagatap, Brian Timmerman, Progga Deb,
 Siddharth Garg, Rachel Greenstadt, Brendan Dolan-Gavitt\
