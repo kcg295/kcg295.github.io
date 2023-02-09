@@ -49,7 +49,7 @@ Expected Completion: May 2023
 
 #### Masters Students
 
-##### Diogo Filipe Pinto Nogueira
+##### Diogo Nogueira
 **Preventing misinformation with a private blockchain: A case study on a news
 industry application**\
 Completed: Dec. 2022
