@@ -27,17 +27,21 @@ Brian Timmerman, Pulak Mehta, Progga Debb, Kevin Gallagher,
 Brendan Dolan-Gavitt, Damon McCoy, Siddharth Garg, Rachel Greenstadt\
 In Submission to CySoc 2023.-->
 
+Mitigating Rogue Administrator Attacks in Democratic Institutions Using New
+Access Control Methods\
+Maria Margarida Lopes, Kevin Gallagher, Miguel Correia\
+In Submission to RAID 2023.
+
+Rethinking Realistic Adversaries for Anonymous Communication Systems\
+Kevin Gallagher, Diogo Barradas, Nuno Santos\
+In Submission to FOCI 2023.
+
 Blockchain Technology as a disruptive or incremental innovation: A systematic 
 literature review and an agenda for future research\
 Stefan Kwant, Bert Sadowski, Kevin Gallagher and Jason Whalley\
 In Submission to ITS 2023.
 
-<!--Can Deepfakes be created on a whim?\
-Pulak Mehta, Kevin Gallagher, Gauri Jagatap, Brian Timmerman, Progga Deb,
-Siddharth Garg, Rachel Greenstadt, Brendan Dolan-Gavitt\
-In Submission to SaTML '23.
-
-An Adversarial Analysis of Affective Cue-Based Deepfake Detection\
+<!--An Adversarial Analysis of Affective Cue-Based Deepfake Detection\
 Brian Timmerman, Kevin Gallagher, Pulak Mehta, Damon McCoy, Siddharth Garg,
 Brendan Dolan-Gavitt, Rachel Greenstadt\
 In Submission to SaTML '23.-->
