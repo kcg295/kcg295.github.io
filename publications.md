@@ -9,16 +9,23 @@ Kevin Gallagher, Ryan Quirk, Nasir Memon, Brendan Dolan-Gavitt\
 Major Revisions Decision to Privacy Enhancing Technology Symposium 2023,
 Resubmission in the next cycle.
 
+### Peer Reviewed - Accepted
+
+Can Deepfakes be created on a whim?\
+Pulak Metha, Gauri Japtap, Kevin Gallagher, Brian Timmerman, Progga Deb,
+Siddharth Garg, Rachel Greenstadt, Brendan Dolan-Gavitt\
+Accepted to CySoc 2023.
+
 ### Peer Reviewed - In Submission
 
 <!--TorK: Hardening Tor against Traffic Correlation Attacks with  K-Anonymity\
 Vitor Nunes, José Brás, Diogo Barradas, Kevin Gallagher, Nuno Santos\
 In Submission to USENIX Security '23.-->
 
-Studying the Online Deepfake Creation Community\
+<!--Studying the Online Deepfake Creation Community\
 Brian Timmerman, Pulak Mehta, Progga Debb, Kevin Gallagher,
 Brendan Dolan-Gavitt, Damon McCoy, Siddharth Garg, Rachel Greenstadt\
-In Submission to CySoc 2023.
+In Submission to CySoc 2023.-->
 
 Blockchain Technology as a disruptive or incremental innovation: A systematic 
 literature review and an agenda for future research\
