@@ -45,11 +45,11 @@ Expected Completion: Dec. 2023
 **More Than Human Democracies and Spaces**\
 Expected Completion: Dec. 2023
 
-#### Inês Oliveira
+##### Inês Oliveira
 **LGBTQIA+ Privacy**
 Expected Completion: May 2024
 
-#### Rui Genovevo
+##### Rui Genovevo
 **Improving Tor's Traffic Analysis Protection using Differential Privacy**
 Expected Completion: May 2024
 
