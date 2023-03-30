@@ -84,11 +84,10 @@ This area contains other publications or speeches that I have written and
 published or otherwise delivered.
 
 ##### Blog Posts
-[Working Towards Democratic Computing Systems](https://dcentral-lab.org/working-towards-democratic-computing-systems/)\
+[Working Towards Democratic Computing Systems](/assets/blogposts/WorkingTowardsDemocraticComputingSystems.pdf)\
 Kevin Gallagher\
-DCentral\
-Instituto Superior Técnico\
-Universidade de Lisboa
+Archived from the DCentral Website\
+NOTE: I have since left DCentral and Instituto Superior Técnico.
 
 ##### Speeches
 
