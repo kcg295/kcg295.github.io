@@ -2,6 +2,13 @@
 
 This page serves as a repository for my publications.
 
+### Peer Reviewed - Accepted
+
+Can Deepfakes be created on a whim?\
+Pulak Metha, Gauri Japtap, Kevin Gallagher, Brian Timmerman, Progga Deb,
+Siddharth Garg, Rachel Greenstadt, Brendan Dolan-Gavitt\
+Accepted to CySoc 2023.
+
 ### Peer Reviewed - Soon to be Resubmitted
 
 Scanning the Web for Tor Browser Friendliness\
@@ -9,12 +16,6 @@ Kevin Gallagher, Ryan Quirk, Nasir Memon, Brendan Dolan-Gavitt\
 Major Revisions Decision to Privacy Enhancing Technology Symposium 2023,
 Resubmission in the next cycle.
 
-### Peer Reviewed - Accepted
-
-Can Deepfakes be created on a whim?\
-Pulak Metha, Gauri Japtap, Kevin Gallagher, Brian Timmerman, Progga Deb,
-Siddharth Garg, Rachel Greenstadt, Brendan Dolan-Gavitt\
-Accepted to CySoc 2023.
 
 ### Peer Reviewed - In Submission
 
