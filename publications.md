@@ -9,14 +9,6 @@ Pulak Metha, Gauri Japtap, Kevin Gallagher, Brian Timmerman, Progga Deb,
 Siddharth Garg, Rachel Greenstadt, Brendan Dolan-Gavitt\
 Accepted to CySoc 2023.
 
-### Peer Reviewed - Soon to be Resubmitted
-
-Scanning the Web for Tor Browser Friendliness\
-Kevin Gallagher, Ryan Quirk, Nasir Memon, Brendan Dolan-Gavitt\
-Major Revisions Decision to Privacy Enhancing Technology Symposium 2023,
-Resubmission in the next cycle.
-
-
 ### Peer Reviewed - In Submission
 
 <!--TorK: Hardening Tor against Traffic Correlation Attacks with  K-Anonymity\
@@ -46,6 +38,14 @@ In Submission to ITS 2023.
 Brian Timmerman, Kevin Gallagher, Pulak Mehta, Damon McCoy, Siddharth Garg,
 Brendan Dolan-Gavitt, Rachel Greenstadt\
 In Submission to SaTML '23.-->
+
+### Peer Reviewed - Soon to be Resubmitted
+
+Scanning the Web for Tor Browser Friendliness\
+Kevin Gallagher, Ryan Quirk, Nasir Memon, Brendan Dolan-Gavitt\
+Major Revisions Decision to Privacy Enhancing Technology Symposium 2023,
+Resubmission in the next cycle.
+
 
 ### Peer Reviewed - Published
 
