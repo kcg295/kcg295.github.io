@@ -8,6 +8,10 @@ they need to move on to industry or to continue an academic career.
 
 #### Masters Students
 
+##### Stefan Kwant
+**An Analysis on the Discourse Surrounding Blockchain Technology**\
+Expected Completion: April 2023
+
 ##### Margarida Lopes
 **Mitigating Rogue Administrator Attacks in Democratic Institutions Using New
 Access Control Methods**\
@@ -37,13 +41,17 @@ Expected Completion: Dec. 2023
 **Dynamic Smart Contracts to Fill Large Food Orders from Small Suppliers**\
 Expected Completion: Dec. 2023
 
-##### Stefan Kwant
-**An Analysis on the Discourse Surrounding Blockchain Technology**\
-Expected Completion: April 2023
-
 ##### José Congo
 **More Than Human Democracies and Spaces**\
-Expected Completion: May 2023
+Expected Completion: Dec. 2023
+
+#### Inês Oliveira
+**LGBTQIA+ Privacy**
+Expected Completion: May 2024
+
+#### Rui Genovevo
+**Improving Tor's Traffic Analysis Protection using Differential Privacy**
+Expected Completion: May 2024
 
 ### Graduated Students
 
