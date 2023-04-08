@@ -9,6 +9,11 @@ Pulak Metha, Gauri Japtap, Kevin Gallagher, Brian Timmerman, Progga Deb,
 Siddharth Garg, Rachel Greenstadt, Brendan Dolan-Gavitt\
 Accepted to CySoc 2023.
 
+Blockchain Technology as a disruptive or incremental innovation: A systematic 
+literature review and an agenda for future research\
+Stefan Kwant, Bert Sadowski, Kevin Gallagher and Jason Whalley\
+In Submission to ITS 2023.
+
 ### Peer Reviewed - In Submission
 
 <!--TorK: Hardening Tor against Traffic Correlation Attacks with  K-Anonymity\
@@ -28,11 +33,6 @@ In Submission to RAID 2023.
 Rethinking Realistic Adversaries for Anonymous Communication Systems\
 Kevin Gallagher, Diogo Barradas, Nuno Santos\
 In Submission to FOCI 2023.
-
-Blockchain Technology as a disruptive or incremental innovation: A systematic 
-literature review and an agenda for future research\
-Stefan Kwant, Bert Sadowski, Kevin Gallagher and Jason Whalley\
-In Submission to ITS 2023.
 
 <!--An Adversarial Analysis of Affective Cue-Based Deepfake Detection\
 Brian Timmerman, Kevin Gallagher, Pulak Mehta, Damon McCoy, Siddharth Garg,
