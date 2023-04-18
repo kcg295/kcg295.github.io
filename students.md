@@ -42,11 +42,11 @@ Expected Completion: Dec. 2023
 Expected Completion: Dec. 2023
 
 ##### Inês Oliveira
-**LGBTQIA+ Privacy**
+**LGBTQIA+ Privacy**\
 Expected Completion: May 2024
 
 ##### Rui Genovevo
-**Improving Tor's Traffic Analysis Protection using Differential Privacy**
+**Improving Tor's Traffic Analysis Protection using Differential Privacy**\
 Expected Completion: May 2024
 
 ### Graduated Students
