@@ -55,7 +55,7 @@ Expected Completion: May 2024
 
 ##### Stefan Kwant
 **The Not-So Disruptive Nature of Blockchain Technology: A Systematic Review**\
-Completion: April 2023
+Completed: April 2023
 
 
 ##### Diogo Nogueira
