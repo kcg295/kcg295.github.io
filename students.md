@@ -8,10 +8,6 @@ they need to move on to industry or to continue an academic career.
 
 #### Masters Students
 
-##### Stefan Kwant
-**An Analysis on the Discourse Surrounding Blockchain Technology**\
-Expected Completion: April 2023
-
 ##### Margarida Lopes
 **Mitigating Rogue Administrator Attacks in Democratic Institutions Using New
 Access Control Methods**\
@@ -56,6 +52,11 @@ Expected Completion: May 2024
 ### Graduated Students
 
 #### Masters Students
+
+##### Stefan Kwant
+**The Not-So Disruptive Nature of Blockchain Technology: A Systematic Review**\
+Completion: April 2023
+
 
 ##### Diogo Nogueira
 **Preventing misinformation with a private blockchain: A case study on a news
