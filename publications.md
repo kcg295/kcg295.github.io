@@ -53,7 +53,8 @@ Resubmission in the next cycle.
 [Can Deepfakes be created on a whim?](https://dl.acm.org/doi/10.1145/3543873.3587581)\
 Pulak Metha, Gauri Japtap, Kevin Gallagher, Brian Timmerman, Progga Deb,
 Siddharth Garg, Rachel Greenstadt, Brendan Dolan-Gavitt\
-Accepted to CySoc 2023.
+Fourth International Workshop on Cyber Social Threats (CySoc 2023).
+Preprint available [here](https://arxiv.org/pdf/2304.14576.pdf).
 
 ["It Feels Like Whack-a-mole": User Experiences of Data Removal from People Search Websites](https://petsymposium.org/2022/files/papers/issue3/popets-2022-0067.pdf)\
 Kejsi Take, Kevin Gallagher, Andrea Forte, Damon McCoy, Rachel Greenstadt\
