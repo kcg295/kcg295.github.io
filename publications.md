@@ -16,14 +16,20 @@ Accepted to ITS 2023.
 
 ### Peer Reviewed - In Submission
 
-<!--TorK: Hardening Tor against Traffic Correlation Attacks with  K-Anonymity\
-Vitor Nunes, José Brás, Diogo Barradas, Kevin Gallagher, Nuno Santos\
-In Submission to USENIX Security '23.-->
+Privacy Preserving Decision Trees in a Multi-Party Setting: a  Level-Based
+Approach\
+Andrew Quijano, Spyros T. Halkidis, Kevin Gallagher, Nikolaos Samaras\
+In Submission to CCS '23.
 
-<!--Studying the Online Deepfake Creation Community\
+Enhancing the Unlinkability of Circuit-Based Anonymous Communications with
+k-Funnels\
+Vitor Nunes, José Brás, Afonso Carvalho, Diogo Barradas, Kevin Gallagher, Nuno Santos\
+In Submission to CCS '23.
+
+Studying the Online Deepfake Creation Community\
 Brian Timmerman, Pulak Mehta, Progga Debb, Kevin Gallagher,
 Brendan Dolan-Gavitt, Damon McCoy, Siddharth Garg, Rachel Greenstadt\
-In Submission to CySoc 2023.-->
+In Submission to the Journal of Online Trust and Safety.
 
 Mitigating Rogue Administrator Attacks in Democratic Institutions Using New
 Access Control Methods\
