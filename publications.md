@@ -9,6 +9,10 @@ literature review and an agenda for future research\
 Stefan Kwant, Bert Sadowski, Kevin Gallagher and Jason Whalley\
 Accepted to ITS 2023.
 
+Rethinking Realistic Adversaries for Anonymous Communication Systems\
+Kevin Gallagher, Diogo Barradas, Nuno Santos\
+Accepted to FOCI 2023.
+
 ### Peer Reviewed - In Submission
 
 Privacy Preserving Decision Trees in a Multi-Party Setting: a  Level-Based
@@ -31,9 +35,9 @@ Access Control Methods\
 Maria Margarida Lopes, Kevin Gallagher, Miguel Correia\
 In Submission to RAID 2023.
 
-Rethinking Realistic Adversaries for Anonymous Communication Systems\
-Kevin Gallagher, Diogo Barradas, Nuno Santos\
-In Submission to FOCI 2023.
+Slicing with MACHET3: Securing Multi-Path Communication with Secret Sharing\
+João Soares, Kevin Gallagher, Miguel L. Pardal, David R. Matos\
+In Submission to ESORICS 2023.
 
 <!--An Adversarial Analysis of Affective Cue-Based Deepfake Detection\
 Brian Timmerman, Kevin Gallagher, Pulak Mehta, Damon McCoy, Siddharth Garg,
