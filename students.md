@@ -8,11 +8,6 @@ they need to move on to industry or to continue an academic career.
 
 #### Masters Students
 
-##### Margarida Lopes
-**Mitigating Rogue Administrator Attacks in Democratic Institutions Using New
-Access Control Methods**\
-Expected Completion: May 2023
-
 ##### Afonso Gomes
 **Thwarting Traffic Confirmation Attacks in Tor with Rendezvous Mixing**\
 Expected Completion: Dec. 2023
@@ -52,6 +47,11 @@ Expected Completion: May 2024
 ### Graduated Students
 
 #### Masters Students
+
+##### Margarida Lopes
+**Mitigating Rogue Administrator Attacks in Democratic Institutions Using New
+Access Control Methods**\
+Completed: June 2023
 
 ##### Stefan Kwant
 **The Not-So Disruptive Nature of Blockchain Technology: A Systematic Review**\
