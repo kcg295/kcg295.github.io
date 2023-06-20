@@ -30,10 +30,10 @@ Brian Timmerman, Pulak Mehta, Progga Debb, Kevin Gallagher,
 Brendan Dolan-Gavitt, Damon McCoy, Siddharth Garg, Rachel Greenstadt\
 In Submission to the Journal of Online Trust and Safety.
 
-Mitigating Rogue Administrator Attacks in Democratic Institutions Using New
+<!--Mitigating Rogue Administrator Attacks in Democratic Institutions Using New
 Access Control Methods\
 Maria Margarida Lopes, Kevin Gallagher, Miguel Correia\
-In Submission to RAID 2023.
+In Submission to RAID 2023. -->
 
 Slicing with MACHET3: Securing Multi-Path Communication with Secret Sharing\
 João Soares, Kevin Gallagher, Miguel L. Pardal, David R. Matos\
