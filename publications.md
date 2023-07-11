@@ -9,21 +9,17 @@ literature review and an agenda for future research\
 Stefan Kwant, Bert Sadowski, Kevin Gallagher and Jason Whalley\
 Accepted to ITS 2023.
 
-Rethinking Realistic Adversaries for Anonymous Communication Systems\
-Kevin Gallagher, Diogo Barradas, Nuno Santos\
-Accepted to FOCI 2023.
-
 ### Peer Reviewed - In Submission
 
-Privacy Preserving Decision Trees in a Multi-Party Setting: a  Level-Based
+<!--Privacy Preserving Decision Trees in a Multi-Party Setting: a  Level-Based
 Approach\
 Andrew Quijano, Spyros T. Halkidis, Kevin Gallagher, Nikolaos Samaras\
-In Submission to CCS '23.
+In Submission to CCS '23.-->
 
 Enhancing the Unlinkability of Circuit-Based Anonymous Communications with
 k-Funnels\
 Vitor Nunes, José Brás, Afonso Carvalho, Diogo Barradas, Kevin Gallagher, Nuno Santos\
-In Submission to CCS '23.
+In Submission to CoNEXT 2023.
 
 Studying the Online Deepfake Creation Community\
 Brian Timmerman, Pulak Mehta, Progga Debb, Kevin Gallagher,
@@ -53,6 +49,10 @@ Resubmission in the next cycle.
 
 
 ### Peer Reviewed - Published
+
+[Rethinking Realistic Adversaries for Anonymous Communication Systems](https://www.petsymposium.org/foci/2023/foci-2023-0015.pdf)\
+Kevin Gallagher, Diogo Barradas, Nuno Santos\
+Free and Open Communications on the Internet 2023 (FOCI 2023).
 
 [Can Deepfakes be created on a whim?](https://dl.acm.org/doi/10.1145/3543873.3587581)\
 Pulak Metha, Gauri Japtap, Kevin Gallagher, Brian Timmerman, Progga Deb,
