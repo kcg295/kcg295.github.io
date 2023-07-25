@@ -9,6 +9,11 @@ literature review and an agenda for future research\
 Stefan Kwant, Bert Sadowski, Kevin Gallagher and Jason Whalley\
 Accepted to ITS 2023.
 
+Studying the Online Deepfake Creation Community\
+Brian Timmerman, Pulak Mehta, Progga Debb, Kevin Gallagher,
+Brendan Dolan-Gavitt, Damon McCoy, Siddharth Garg, Rachel Greenstadt\
+Accepted to the Journal of Online Trust and Safety.
+
 ### Peer Reviewed - In Submission
 
 <!--Privacy Preserving Decision Trees in a Multi-Party Setting: a  Level-Based
@@ -21,10 +26,6 @@ k-Funnels\
 Vitor Nunes, José Brás, Afonso Carvalho, Diogo Barradas, Kevin Gallagher, Nuno Santos\
 In Submission to CoNEXT 2023.
 
-Studying the Online Deepfake Creation Community\
-Brian Timmerman, Pulak Mehta, Progga Debb, Kevin Gallagher,
-Brendan Dolan-Gavitt, Damon McCoy, Siddharth Garg, Rachel Greenstadt\
-In Submission to the Journal of Online Trust and Safety.
 
 <!--Mitigating Rogue Administrator Attacks in Democratic Institutions Using New
 Access Control Methods\
