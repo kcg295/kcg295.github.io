@@ -32,9 +32,9 @@ Access Control Methods\
 Maria Margarida Lopes, Kevin Gallagher, Miguel Correia\
 In Submission to RAID 2023. -->
 
-Slicing with MACHET3: Securing Multi-Path Communication with Secret Sharing\
+<!--Slicing with MACHET3: Securing Multi-Path Communication with Secret Sharing\
 João Soares, Kevin Gallagher, Miguel L. Pardal, David R. Matos\
-In Submission to ESORICS 2023.
+In Submission to ESORICS 2023.-->
 
 <!--An Adversarial Analysis of Affective Cue-Based Deepfake Detection\
 Brian Timmerman, Kevin Gallagher, Pulak Mehta, Damon McCoy, Siddharth Garg,
