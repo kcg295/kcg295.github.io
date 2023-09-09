@@ -24,7 +24,7 @@ In Submission to CCS '23.-->
 Enhancing the Unlinkability of Circuit-Based Anonymous Communications with
 k-Funnels\
 Vitor Nunes, José Brás, Afonso Carvalho, Diogo Barradas, Kevin Gallagher, Nuno Santos\
-In Submission to CoNEXT 2023.
+One-Shot Revision to CoNEXT 2023.
 
 
 <!--Mitigating Rogue Administrator Attacks in Democratic Institutions Using New
