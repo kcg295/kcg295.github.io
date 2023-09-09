@@ -4,10 +4,10 @@ This page serves as a repository for my publications.
 
 ### Peer Reviewed - Accepted
 
-Blockchain Technology as a disruptive or incremental innovation: A systematic 
+<!--Blockchain Technology as a disruptive or incremental innovation: A systematic 
 literature review and an agenda for future research\
 Stefan Kwant, Bert Sadowski, Kevin Gallagher and Jason Whalley\
-Accepted to ITS 2023.
+Accepted to ITS 2023.-->
 
 Studying the Online Deepfake Creation Community\
 Brian Timmerman, Pulak Mehta, Progga Debb, Kevin Gallagher,
