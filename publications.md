@@ -21,7 +21,7 @@ k-Funnels\
 Vitor Nunes, José Brás, Afonso Carvalho, Diogo Barradas, Kevin Gallagher, Nuno Santos\
 One-Shot Revision to CoNEXT 2023.
 
-### Peer Reviewed - In Submission
+<!--### Peer Reviewed - In Submission-->
 
 <!--Privacy Preserving Decision Trees in a Multi-Party Setting: a  Level-Based
 Approach\
