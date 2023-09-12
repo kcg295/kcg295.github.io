@@ -14,18 +14,19 @@ Brian Timmerman, Pulak Mehta, Progga Debb, Kevin Gallagher,
 Brendan Dolan-Gavitt, Damon McCoy, Siddharth Garg, Rachel Greenstadt\
 Accepted to the Journal of Online Trust and Safety.
 
-### Peer Reviewed - In Submission
-
-<!--Privacy Preserving Decision Trees in a Multi-Party Setting: a  Level-Based
-Approach\
-Andrew Quijano, Spyros T. Halkidis, Kevin Gallagher, Nikolaos Samaras\
-In Submission to CCS '23.-->
+### Peer Reviewed - Conditional Accept (Revision)
 
 Enhancing the Unlinkability of Circuit-Based Anonymous Communications with
 k-Funnels\
 Vitor Nunes, José Brás, Afonso Carvalho, Diogo Barradas, Kevin Gallagher, Nuno Santos\
 One-Shot Revision to CoNEXT 2023.
 
+### Peer Reviewed - In Submission
+
+<!--Privacy Preserving Decision Trees in a Multi-Party Setting: a  Level-Based
+Approach\
+Andrew Quijano, Spyros T. Halkidis, Kevin Gallagher, Nikolaos Samaras\
+In Submission to CCS '23.-->
 
 <!--Mitigating Rogue Administrator Attacks in Democratic Institutions Using New
 Access Control Methods\
