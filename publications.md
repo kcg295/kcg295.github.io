@@ -2,17 +2,12 @@
 
 This page serves as a repository for my publications.
 
-### Peer Reviewed - Accepted
+<!--### Peer Reviewed - Accepted-->
 
 <!--Blockchain Technology as a disruptive or incremental innovation: A systematic 
 literature review and an agenda for future research\
 Stefan Kwant, Bert Sadowski, Kevin Gallagher and Jason Whalley\
 Accepted to ITS 2023.-->
-
-Studying the Online Deepfake Creation Community\
-Brian Timmerman, Pulak Mehta, Progga Debb, Kevin Gallagher,
-Brendan Dolan-Gavitt, Damon McCoy, Siddharth Garg, Rachel Greenstadt\
-Accepted to the Journal of Online Trust and Safety.
 
 ### Peer Reviewed - Conditional Accept (Revision)
 
@@ -51,6 +46,11 @@ Resubmission in the next cycle.
 
 
 ### Peer Reviewed - Published
+
+[Studying the Online Deepfake Creation Community](https://www.tsjournal.org/index.php/jots/article/view/126/53)\
+Brian Timmerman, Pulak Mehta, Progga Debb, Kevin Gallagher,
+Brendan Dolan-Gavitt, Damon McCoy, Siddharth Garg, Rachel Greenstadt\
+Accepted to the Journal of Online Trust and Safety.
 
 [Rethinking Realistic Adversaries for Anonymous Communication Systems](https://www.petsymposium.org/foci/2023/foci-2023-0015.pdf)\
 Kevin Gallagher, Diogo Barradas, Nuno Santos\
