@@ -2,19 +2,20 @@
 
 This page serves as a repository for my publications.
 
-<!--### Peer Reviewed - Accepted-->
+### Peer Reviewed - Accepted
+
+Enhancing the Unlinkability of Circuit-Based Anonymous Communications with
+k-Funnels\
+Vitor Nunes, José Brás, Afonso Carvalho, Diogo Barradas, Kevin Gallagher, Nuno Santos\
+Accepted to CoNEXT 2023.
 
 <!--Blockchain Technology as a disruptive or incremental innovation: A systematic 
 literature review and an agenda for future research\
 Stefan Kwant, Bert Sadowski, Kevin Gallagher and Jason Whalley\
 Accepted to ITS 2023.-->
 
-### Peer Reviewed - Conditional Accept (Revision)
+<!--### Peer Reviewed - Conditional Accept (Revision)-->
 
-Enhancing the Unlinkability of Circuit-Based Anonymous Communications with
-k-Funnels\
-Vitor Nunes, José Brás, Afonso Carvalho, Diogo Barradas, Kevin Gallagher, Nuno Santos\
-One-Shot Revision to CoNEXT 2023.
 
 <!--### Peer Reviewed - In Submission-->
 
@@ -37,12 +38,12 @@ Brian Timmerman, Kevin Gallagher, Pulak Mehta, Damon McCoy, Siddharth Garg,
 Brendan Dolan-Gavitt, Rachel Greenstadt\
 In Submission to SaTML '23.-->
 
-### Peer Reviewed - Soon to be Resubmitted
+<!--### Peer Reviewed - Soon to be Resubmitted
 
 Scanning the Web for Tor Browser Friendliness\
 Kevin Gallagher, Ryan Quirk, Nasir Memon, Brendan Dolan-Gavitt\
 Major Revisions Decision to Privacy Enhancing Technology Symposium 2023,
-Resubmission in the next cycle.
+Resubmission in the next cycle.-->
 
 
 ### Peer Reviewed - Published
