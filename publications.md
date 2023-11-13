@@ -4,8 +4,8 @@ This page serves as a repository for my publications.
 
 ### Peer Reviewed - Accepted
 
-Enhancing the Unlinkability of Circuit-Based Anonymous Communications with
-k-Funnels\
+[Enhancing the Unlinkability of Circuit-Based Anonymous Communications with
+k-Funnels](https://cs.uwaterloo.ca/~dbarrada/papers/nunes-conext23.pdf)\
 Vitor Nunes, José Brás, Afonso Carvalho, Diogo Barradas, Kevin Gallagher, Nuno Santos\
 Accepted to CoNEXT 2023.
 
