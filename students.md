@@ -8,20 +8,12 @@ they need to move on to industry or to continue an academic career.
 
 #### Masters Students
 
-##### Afonso Gomes
-**Thwarting Traffic Confirmation Attacks in Tor with Rendezvous Mixing**\
-Expected Completion: Dec. 2023
-
 ##### João Silva
 **Siphon: Towards removing ineficiente gas patterns from Smart Contracts**\
 Expected Completion: Dec. 2023
 
 ##### Sebastian Oca
 **Developing a Threat Modeling Protocol for Horizontal Organizations**\
-Expected Completion: Dec. 2023
-
-##### Tiago Fournigault
-**Decentralizing Deliberation for DAOs**\
 Expected Completion: Dec. 2023
 
 ##### Guilherme Gaspar
@@ -44,6 +36,14 @@ Expected Completion: May 2024
 
 #### Masters Students
 
+##### Afonso Gomes
+**Thwarting Traffic Confirmation Attacks in Tor with Rendezvous Mixing**\
+Completed: Dec. 2023
+
+##### Tiago Fournigault
+**Decentralizing Deliberation for DAOs**\
+Completed: Dec. 2023
+
 ##### Margarida Lopes
 **Mitigating Rogue Administrator Attacks in Democratic Institutions Using New
 Access Control Methods**\
@@ -52,7 +52,6 @@ Completed: June 2023
 ##### Stefan Kwant
 **The Not-So Disruptive Nature of Blockchain Technology: A Systematic Review**\
 Completed: April 2023
-
 
 ##### Diogo Nogueira
 **Preventing misinformation with a private blockchain: A case study on a news
