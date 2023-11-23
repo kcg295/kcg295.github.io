@@ -10,19 +10,11 @@ they need to move on to industry or to continue an academic career.
 
 ##### João Silva
 **Siphon: Towards removing ineficiente gas patterns from Smart Contracts**\
-Expected Completion: Dec. 2023
+Expected Completion: May. 2024
 
-##### Sebastian Oca
+<!--##### Sebastian Oca
 **Developing a Threat Modeling Protocol for Horizontal Organizations**\
-Expected Completion: Dec. 2023
-
-##### Guilherme Gaspar
-**SmartSecureChain: Studying Common Attacks Against Smart Contracts**\
-Expected Completion: Dec. 2023
-
-##### Rui Costa
-**Dynamic Smart Contracts to Fill Large Food Orders from Small Suppliers**\
-Expected Completion: Dec. 2023
+Expected Completion: Dec. 2023 -->
 
 ##### Inês Oliveira
 **LGBTQIA+ Privacy**\
@@ -35,6 +27,14 @@ Expected Completion: May 2024
 ### Graduated Students
 
 #### Masters Students
+
+##### Guilherme Gaspar
+**SmartSecureChain: Studying Common Attacks Against Smart Contracts**\
+Expected Completion: Dec. 2023
+
+##### Rui Costa
+**Dynamic Smart Contracts to Fill Large Food Orders from Small Suppliers**\
+Completed: Dec. 2023
 
 ##### Afonso Gomes
 **Thwarting Traffic Confirmation Attacks in Tor with Rendezvous Mixing**\
