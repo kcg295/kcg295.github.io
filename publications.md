@@ -4,10 +4,6 @@ This page serves as a repository for my publications.
 
 ### Peer Reviewed - Accepted
 
-[Enhancing the Unlinkability of Circuit-Based Anonymous Communications with
-k-Funnels](https://cs.uwaterloo.ca/~dbarrada/papers/nunes-conext23.pdf)\
-Vitor Nunes, José Brás, Afonso Carvalho, Diogo Barradas, Kevin Gallagher, Nuno Santos\
-Accepted to CoNEXT 2023.
 
 <!--Blockchain Technology as a disruptive or incremental innovation: A systematic 
 literature review and an agenda for future research\
@@ -17,13 +13,18 @@ Accepted to ITS 2023.-->
 <!--### Peer Reviewed - Conditional Accept (Revision)-->
 
 
-<!--### Peer Reviewed - In Submission-->
+### Peer Reviewed - In Submission
 
-<!--Privacy Preserving Decision Trees in a Multi-Party Setting: a  Level-Based
+Privacy Preserving Decision Trees in a Multi-Party Setting: a  Level-Based
 Approach\
 Andrew Quijano, Spyros T. Halkidis, Kevin Gallagher, Nikolaos Samaras\
-In Submission to CCS '23.-->
+In Submission to Euro S&P '24.
 
+What to Expect When You’re Accessing: An Exploration of User Privacy Rights in
+People Search Websites\
+Kejsi Take, Jordyn Young, Rasika Bhalerao, Kevin Gallagher, Andrea Forte, Damon
+McCoy, Rachel Greenstadt\
+In Submission to PETS 2024.
 <!--Mitigating Rogue Administrator Attacks in Democratic Institutions Using New
 Access Control Methods\
 Maria Margarida Lopes, Kevin Gallagher, Miguel Correia\
@@ -48,10 +49,15 @@ Resubmission in the next cycle.-->
 
 ### Peer Reviewed - Published
 
+[Enhancing the Unlinkability of Circuit-Based Anonymous Communications with
+k-Funnels](https://cs.uwaterloo.ca/~dbarrada/papers/nunes-conext23.pdf)\
+Vitor Nunes, José Brás, Afonso Carvalho, Diogo Barradas, Kevin Gallagher, Nuno Santos\
+The 19th International Conference on emerging Networking EXperiments and Technologies (CoNEXT 2023).
+
 [Studying the Online Deepfake Creation Community](https://www.tsjournal.org/index.php/jots/article/view/126/53)\
 Brian Timmerman, Pulak Mehta, Progga Debb, Kevin Gallagher,
 Brendan Dolan-Gavitt, Damon McCoy, Siddharth Garg, Rachel Greenstadt\
-Accepted to the Journal of Online Trust and Safety.
+Journal of Online Trust and Safety.
 
 [Rethinking Realistic Adversaries for Anonymous Communication Systems](https://www.petsymposium.org/foci/2023/foci-2023-0015.pdf)\
 Kevin Gallagher, Diogo Barradas, Nuno Santos\
