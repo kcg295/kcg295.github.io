@@ -15,10 +15,10 @@ Accepted to ITS 2023.-->
 
 ### Peer Reviewed - In Submission
 
-Privacy Preserving Decision Trees in a Multi-Party Setting: a  Level-Based
+<!-- Privacy Preserving Decision Trees in a Multi-Party Setting: a  Level-Based
 Approach\
 Andrew Quijano, Spyros T. Halkidis, Kevin Gallagher, Nikolaos Samaras\
-In Submission to Euro S&P '24.
+In Submission to Euro S&P '24. -->
 
 What to Expect When You’re Accessing: An Exploration of User Privacy Rights in
 People Search Websites\
