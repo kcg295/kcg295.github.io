@@ -2,29 +2,25 @@
 
 This page serves as a repository for my publications.
 
-<!--### Peer Reviewed - Accepted-->
-
-
-<!--Blockchain Technology as a disruptive or incremental innovation: A systematic 
-literature review and an agenda for future research\
-Stefan Kwant, Bert Sadowski, Kevin Gallagher and Jason Whalley\
-Accepted to ITS 2023.-->
-
-<!--### Peer Reviewed - Conditional Accept (Revision)-->
-
-
-### Peer Reviewed - In Submission
-
-<!-- Privacy Preserving Decision Trees in a Multi-Party Setting: a  Level-Based
-Approach\
-Andrew Quijano, Spyros T. Halkidis, Kevin Gallagher, Nikolaos Samaras\
-In Submission to Euro S&P '24. -->
+### Peer Reviewed - Accepted
 
 What to Expect When You’re Accessing: An Exploration of User Privacy Rights in
 People Search Websites\
 Kejsi Take, Jordyn Young, Rasika Bhalerao, Kevin Gallagher, Andrea Forte, Damon
 McCoy, Rachel Greenstadt\
 In Submission to PETS 2024.
+
+
+<!--### Peer Reviewed - Conditional Accept (Revision)-->
+
+
+<!-- ### Peer Reviewed - In Submission -->
+
+<!-- Privacy Preserving Decision Trees in a Multi-Party Setting: a  Level-Based
+Approach\
+Andrew Quijano, Spyros T. Halkidis, Kevin Gallagher, Nikolaos Samaras\
+In Submission to Euro S&P '24. -->
+
 <!--Mitigating Rogue Administrator Attacks in Democratic Institutions Using New
 Access Control Methods\
 Maria Margarida Lopes, Kevin Gallagher, Miguel Correia\
