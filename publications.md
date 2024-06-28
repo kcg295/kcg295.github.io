@@ -8,7 +8,7 @@ What to Expect When You’re Accessing: An Exploration of User Privacy Rights in
 People Search Websites\
 Kejsi Take, Jordyn Young, Rasika Bhalerao, Kevin Gallagher, Andrea Forte, Damon
 McCoy, Rachel Greenstadt\
-In Submission to PETS 2024.
+Accepted to PETS 2024.
 
 
 <!--### Peer Reviewed - Conditional Accept (Revision)-->
