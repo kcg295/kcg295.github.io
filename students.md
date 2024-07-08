@@ -11,6 +11,13 @@ they need to move on to industry or to continue an academic career.
 <!--##### Sebastian Oca
 **Developing a Threat Modeling Protocol for Horizontal Organizations**\
 Expected Completion: Dec. 2023 -->
+##### Pedro Dimas
+**Integrating Decentralized IAM in Active Directory and LDAP**\
+Expected Completion: May  2025
+
+##### Tiago Guerra
+**Scanning the Web for Tor Browser Friendliness**\
+Expected Completion: May  2025
 
 ##### Inês Oliveira
 **LGBTQIA+ Privacy**\
