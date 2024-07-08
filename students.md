@@ -19,6 +19,14 @@ Expected Completion: May  2025
 **Scanning the Web for Tor Browser Friendliness**\
 Expected Completion: May  2025
 
+##### Ricardo Romão
+**Privacy-aware Multicasting Over Tor**\
+Expected Completion: Sep. 2024
+
+##### Romão Costa
+**Examining the Usability Implications of the Signal Encryption Protocol**\
+Expected Completion: Sep. 2024
+
 ##### Inês Oliveira
 **LGBTQIA+ Privacy**\
 Expected Completion: Dec. 2024
