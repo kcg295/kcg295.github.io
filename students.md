@@ -8,12 +8,34 @@ they need to move on to industry or to continue an academic career.
 
 #### Masters Students
 
-<!--##### Sebastian Oca
-**Developing a Threat Modeling Protocol for Horizontal Organizations**\
-Expected Completion: Dec. 2023 -->
+##### Catarina Crespo
+**Building an e-Voting System for Horizontal Organizations**\
+Expected Completion: Dec. 2025
+
+##### Thiago Monteiro
+**Building a Threat Modeling Protocol for Horizontal Organizations**\
+Expected Completion: Dec. 2025
+
+##### Pedro Ribeiro
+**Studying the User Experience of the Element Secure Messenger**\
+Expected Completion: Dec. 2025
+
+##### Francisco Vasco
+**Measuring and Modeling Tor Use**\
+Expected Completion: Dec. 2025
+
+##### Tomé Dias
+**Building a IDE Plugin for Siphon**\
+Expected Completion: Dec. 2025
+
+##### Bruno Melo
+**Enhancing User Experience in Tor Browser through Privacy-Preserving Aggregated
+Data Collection**\
+Expected Completion: Dec. 2025
+
 ##### Pedro Dimas
 **Integrating Decentralized IAM in Active Directory and LDAP**\
-Expected Completion: May  2025
+Expected Completion: Dec. 2025
 
 ##### Tiago Guerra
 **Scanning the Web for Tor Browser Friendliness**\
@@ -21,19 +43,19 @@ Expected Completion: May  2025
 
 ##### Ricardo Romão
 **Privacy-aware Multicasting Over Tor**\
-Expected Completion: Sep. 2024
+Expected Completion: Dec. 2024
 
 ##### Romão Costa
 **Examining the Usability Implications of the Signal Encryption Protocol**\
-Expected Completion: Sep. 2024
+Expected Completion: Dec. 2024
 
 ##### Inês Oliveira
 **LGBTQIA+ Privacy**\
-Expected Completion: Dec. 2024
+Expected Completion: Unknown
 
 ##### Rui Genovevo
 **Improving Tor's Traffic Analysis Protection using Differential Privacy**\
-Expected Completion: 2024
+Expected Completion: Unknown
 
 ### Graduated Students
 
