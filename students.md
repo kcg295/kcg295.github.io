@@ -45,10 +45,6 @@ Expected Completion: May  2025
 **Privacy-aware Multicasting Over Tor**\
 Expected Completion: Dec. 2024
 
-##### Romão Costa
-**Examining the Usability Implications of the Signal Encryption Protocol**\
-Expected Completion: Dec. 2024
-
 ##### Inês Oliveira
 **LGBTQIA+ Privacy**\
 Expected Completion: Unknown
@@ -60,6 +56,10 @@ Expected Completion: Unknown
 ### Graduated Students
 
 #### Masters Students
+
+##### Romão Costa
+**Examining the Usability Implications of the Signal Encryption Protocol**\
+Completed: Nov. 2024
 
 ##### João Silva
 **Siphon: Towards removing ineficiente gas patterns from Smart Contracts**\
