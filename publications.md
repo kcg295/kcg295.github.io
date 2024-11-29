@@ -4,11 +4,11 @@ This page serves as a repository for my publications.
 
 ### Peer Reviewed - Accepted
 
-What to Expect When You’re Accessing: An Exploration of User Privacy Rights in
-People Search Websites\
-Kejsi Take, Jordyn Young, Rasika Bhalerao, Kevin Gallagher, Andrea Forte, Damon
-McCoy, Rachel Greenstadt\
-Accepted to PETS 2024.
+Enhanced Outsourced and Secure Inference for Tall Sparse Decision Trees:\
+Andrew Quijano, Spyros T. Halkidis, Kevin Gallagher, Nikolaos Samaras, Kemal
+Akkaya\
+Accepted to IEEE IPCCC 2024.
+
 
 
 <!--### Peer Reviewed - Conditional Accept (Revision)-->
@@ -44,6 +44,12 @@ Resubmission in the next cycle.-->
 
 
 ### Peer Reviewed - Published
+
+[What to Expect When You’re Accessing: An Exploration of User Privacy Rights in
+People Search Websites](https://petsymposium.org/popets/2024/popets-2024-0118.pdf)\
+Kejsi Take, Jordyn Young, Rasika Bhalerao, Kevin Gallagher, Andrea Forte, Damon
+McCoy, Rachel Greenstadt\
+Privacy Enhancing Technology Symposium 2024.
 
 [Enhancing the Unlinkability of Circuit-Based Anonymous Communications with
 k-Funnels](https://cs.uwaterloo.ca/~dbarrada/papers/nunes-conext23.pdf)\
