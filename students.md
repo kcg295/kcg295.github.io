@@ -41,14 +41,6 @@ Expected Completion: Dec. 2025
 **Scanning the Web for Tor Browser Friendliness**\
 Expected Completion: May  2025
 
-##### Ricardo Romão
-**Privacy-aware Multicasting Over Tor**\
-Expected Completion: Dec. 2024
-
-##### Inês Oliveira
-**LGBTQIA+ Privacy**\
-Expected Completion: Unknown
-
 ##### Rui Genovevo
 **Improving Tor's Traffic Analysis Protection using Differential Privacy**\
 Expected Completion: Unknown
@@ -56,6 +48,10 @@ Expected Completion: Unknown
 ### Graduated Students
 
 #### Masters Students
+
+##### Ricardo Romão
+**Privacy-aware Multicasting Over Tor**\
+Completed: Dec. 2024
 
 ##### Romão Costa
 **Examining the Usability Implications of the Signal Encryption Protocol**\
