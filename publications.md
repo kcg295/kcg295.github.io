@@ -4,22 +4,8 @@ This page serves as a repository for my publications.
 
 ### Peer Reviewed - Accepted
 
-Enhanced Outsourced and Secure Inference for Tall Sparse Decision Trees:\
-Andrew Quijano, Spyros T. Halkidis, Kevin Gallagher, Nikolaos Samaras, Kemal
-Akkaya\
-Accepted to IEEE IPCCC 2024.
-
-
-
-<!--### Peer Reviewed - Conditional Accept (Revision)-->
-
 
 <!-- ### Peer Reviewed - In Submission -->
-
-<!-- Privacy Preserving Decision Trees in a Multi-Party Setting: a  Level-Based
-Approach\
-Andrew Quijano, Spyros T. Halkidis, Kevin Gallagher, Nikolaos Samaras\
-In Submission to Euro S&P '24. -->
 
 <!--Mitigating Rogue Administrator Attacks in Democratic Institutions Using New
 Access Control Methods\
@@ -30,20 +16,19 @@ In Submission to RAID 2023. -->
 João Soares, Kevin Gallagher, Miguel L. Pardal, David R. Matos\
 In Submission to ESORICS 2023.-->
 
-<!--An Adversarial Analysis of Affective Cue-Based Deepfake Detection\
-Brian Timmerman, Kevin Gallagher, Pulak Mehta, Damon McCoy, Siddharth Garg,
-Brendan Dolan-Gavitt, Rachel Greenstadt\
-In Submission to SaTML '23.-->
-
-<!--### Peer Reviewed - Soon to be Resubmitted
-
-Scanning the Web for Tor Browser Friendliness\
-Kevin Gallagher, Ryan Quirk, Nasir Memon, Brendan Dolan-Gavitt\
-Major Revisions Decision to Privacy Enhancing Technology Symposium 2023,
-Resubmission in the next cycle.-->
-
-
 ### Peer Reviewed - Published
+[Enhanced Outsourced and Secure Inference for Tall Sparse Decision
+Trees](https://ieeexplore.ieee.org/iel8/10849998/10850006/10850192.pdf)\
+Andrew Quijano, Spyros T. Halkidis, Kevin Gallagher, Nikolaos Samaras, Kemal
+Akkaya\
+2024 IEEE International Performance, Computing, and Communications Conference
+(IPCCC).
+
+[Comunicação: Algoritmos de Resposta Aleatória como Mecanismo para a
+Desvinculação entre o Tráfego de Entrada e de Saída em Sistemas de Anonimato
+Baseados em Circuitos](https://inforum.pt/static/files/papers/INForum_2024_paper_77.pdf)\
+Afonso Vilalonga, Kevin Gallagher, Alex Davidson, Henrique Domingos\
+Atas do INForum 2024-15º Simpósio Nacional de Informática.
 
 [What to Expect When You’re Accessing: An Exploration of User Privacy Rights in
 People Search Websites](https://petsymposium.org/popets/2024/popets-2024-0118.pdf)\
@@ -105,7 +90,17 @@ New York University Tandon School of Engineering
 This area contains other publications or speeches that I have written and
 published or otherwise delivered.
 
+##### Opinion Pieces
+[O maior perigo da internet não é técnico, é humano ](https://observador.pt/opiniao/o-maior-perigo-da-internet-nao-e-tecnico-e-humano/)\
+Kevin Gallagher\
+Observador
+
 ##### Blog Posts
+[Compartmentalização e Outing Acidental](https://privacylx.org/post/compartimentaliza%C3%A7%C3%A3o-e-outing-acidental/)\
+Kevin Gallagher\
+PrivacyLx Blog\
+NOTE: English language version available [here](https://privacylx.org/en/post/compartmentalization-and-accidental-outing/).
+
 [Working Towards Democratic Computing Systems](/assets/blogposts/WorkingTowardsDemocraticComputingSystems.pdf)\
 Kevin Gallagher\
 Archived from the DCentral Website\
