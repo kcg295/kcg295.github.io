@@ -2,7 +2,7 @@
 
 This page serves as a repository for my publications.
 
-### Peer Reviewed - Accepted
+<!-- ### Peer Reviewed - Accepted -->
 
 
 <!-- ### Peer Reviewed - In Submission -->
