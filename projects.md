@@ -4,6 +4,31 @@ This page serves as a repository of my current projects.
 
 ---
 
+### Usable Secure Messengers
+
+Messengers such as Signal, Element, etc., offer privacy to individuals who wish
+to communicate. However, do these privacy gains come with usability and UX
+drawbacks? In this project we study different aspects of the usable security and
+UX of different secure messengers.
+
+##### Current Status
+
+Researching Element UX questions. (For Reddit verification, the student's Reddit
+handle is Lonely_Actuator4029.
+
+##### Next Steps
+
+1. Recruit individuals for our study through Reddit.
+
+##### Previous Steps
+
+1. Perform a literature review.
+2. Write a research proposal
+3. Develop research plan and protocol.
+
+
+---
+
 ### Envisioning and Implementing Horizontal Security
 
 Cybersecurity has its origin in military, which typically exhibits a very
@@ -92,30 +117,3 @@ in PETS 2022.
 
 ---
 
-### Measuring the User Experience of Generating Deepfakes
-
-Many news articles state that Deepfaked media could erode trust in online media,
-and that soon the average person would be able to create a deepfaked video that
-could fool others and lead to serious political consequences. But is this true?
-What issues stand between the common person and the ability to generate deepfake
-media? If they can already generate deepfaked media, how believable are the
-media they create?
-
-##### Current Status
-
-*How Easily Can Novice Users Create Deepfakes?* will be submitted to a venue to
-be chosen soon.
-
-##### Next Steps
-
-1. Figure out next steps.
-
-##### Previous Steps
-
-1. Developed study protocol to determine what user experience issues people face
-when generating Deepfake media.
-2. Piloted study protocol with masters students, Ph.D. students, and research
-staff to identify and repair flaws.
-3. Submitted the study propsal to the IRB for approval.
-4. Performed our study with participants from many different backgrounds.
-5. Analyzed results.
