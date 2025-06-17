@@ -13,8 +13,10 @@ UX of different secure messengers.
 
 ##### Current Status
 
-Researching Element UX questions. (For Reddit verification, the student's Reddit
-handle is Lonely_Actuator4029.
+Researching Element UX questions.
+
+(For Reddit verification, the student's Reddit
+handle is Lonely_Actuator4029.)
 
 ##### Next Steps
 
