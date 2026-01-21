@@ -2,9 +2,15 @@
 
 This page serves as a repository for my publications.
 
-<!-- ### Peer Reviewed - Accepted -->
+### Peer Reviewed - Accepted
+[Obscura: Enabling Ephemeral Proxies for Traffic Encapsulation in WebRTC Media Streams Against Cost-Effective Censors](https://petsymposium.org/2026/paperlist.php)\
+Afonso Vilalonga, Kevin Gallagher, João Resende, Henrique Domingos\
+Privacy Enhancing Technology Symposium 2026.
 
-
+[ReporTor: Facilitating User Reporting of Issues Encountered in Naturalistic Web
+Browsing via the Tor Browser](https://petsymposium.org/2026/paperlist.php)\
+Nicholas Micallef, Cameron Cartier, Kevin Gallagher, Lucas Zagal, Sameer Patil\
+Privacy Enhancing Technology Symposium 2026.
 <!-- ### Peer Reviewed - In Submission -->
 
 <!--Mitigating Rogue Administrator Attacks in Democratic Institutions Using New
@@ -17,6 +23,14 @@ João Soares, Kevin Gallagher, Miguel L. Pardal, David R. Matos\
 In Submission to ESORICS 2023.-->
 
 ### Peer Reviewed - Published
+[Extended Abstract: Using TURN Servers for Censorship Evasion](https://petsymposium.org/foci/2025/foci-2025-0003.pdf)\
+Afonso Vilalonga, Kevin Gallagher, Osman Yagan, João Resende, Henrique Domingos\
+Free and Open Communications on the Internet (FOCI) 2025
+
+[Extended Abstract: Traffic Shaping for Network Protocols: A Modular and Developer-Friendly Framework](https://petsymposium.org/foci/2025/foci-2025-0011.pdf) \
+Hugo Santos Pereira, Afonso Vilalonga, Kevin Gallagher, Henrique Domingos\
+Free and Open Communications on the Internet (FOCI) 2025
+
 [Enhanced Outsourced and Secure Inference for Tall Sparse Decision
 Trees](https://ieeexplore.ieee.org/iel8/10849998/10850006/10850192.pdf)\
 Andrew Quijano, Spyros T. Halkidis, Kevin Gallagher, Nikolaos Samaras, Kemal
